@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "7c1e8a9f034bbe546ccdd44d40714130"
+build_time: [536819640, 555972000]
+inputs:
+  "/Users/Laird/Code/Projects/AllergyAlert/AllergyAlert/BarcodeScannerViewController.swift": [536817543, 0]
+  "/Users/Laird/Code/Projects/AllergyAlert/AllergyAlert/DataService.swift": [536819640, 0]
+  "/Users/Laird/Code/Projects/AllergyAlert/AllergyAlert/ViewController.swift": [536818896, 0]
+  "/Users/Laird/Code/Projects/AllergyAlert/AllergyAlert/SweetAlert.swift": [529679316, 0]
+  "/Users/Laird/Code/Projects/AllergyAlert/AllergyAlert/AllergenController.swift": [536815033, 0]
+  "/Users/Laird/Code/Projects/AllergyAlert/AllergyAlert/UIHelper.swift": [536478893, 0]
+  "/Users/Laird/Code/Projects/AllergyAlert/AllergyAlert/AppDelegate.swift": [536815322, 0]
+  "/Users/Laird/Code/Projects/AllergyAlert/AllergyAlert/Allergen.swift": [536474828, 0]

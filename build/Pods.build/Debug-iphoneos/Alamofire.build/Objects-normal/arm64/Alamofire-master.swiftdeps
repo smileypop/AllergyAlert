@@ -1,0 +1,21 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "aa93fe83cf0fc5d015ce90cbd0dfdcbc"
+build_time: [536814378, 632391000]
+inputs:
+  "/Users/Laird/Code/Projects/AllergyAlert/Pods/Alamofire/Source/AFError.swift": [536039417, 0]
+  "/Users/Laird/Code/Projects/AllergyAlert/Pods/Alamofire/Source/Alamofire.swift": [536039417, 0]
+  "/Users/Laird/Code/Projects/AllergyAlert/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [536039417, 0]
+  "/Users/Laird/Code/Projects/AllergyAlert/Pods/Alamofire/Source/MultipartFormData.swift": [536039417, 0]
+  "/Users/Laird/Code/Projects/AllergyAlert/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [536039417, 0]
+  "/Users/Laird/Code/Projects/AllergyAlert/Pods/Alamofire/Source/Notifications.swift": [536039417, 0]
+  "/Users/Laird/Code/Projects/AllergyAlert/Pods/Alamofire/Source/ParameterEncoding.swift": [536039417, 0]
+  "/Users/Laird/Code/Projects/AllergyAlert/Pods/Alamofire/Source/Request.swift": [536039417, 0]
+  "/Users/Laird/Code/Projects/AllergyAlert/Pods/Alamofire/Source/Response.swift": [536039417, 0]
+  "/Users/Laird/Code/Projects/AllergyAlert/Pods/Alamofire/Source/ResponseSerialization.swift": [536039417, 0]
+  "/Users/Laird/Code/Projects/AllergyAlert/Pods/Alamofire/Source/Result.swift": [536039417, 0]
+  "/Users/Laird/Code/Projects/AllergyAlert/Pods/Alamofire/Source/ServerTrustPolicy.swift": [536039417, 0]
+  "/Users/Laird/Code/Projects/AllergyAlert/Pods/Alamofire/Source/SessionDelegate.swift": [536039417, 0]
+  "/Users/Laird/Code/Projects/AllergyAlert/Pods/Alamofire/Source/SessionManager.swift": [536039417, 0]
+  "/Users/Laird/Code/Projects/AllergyAlert/Pods/Alamofire/Source/TaskDelegate.swift": [536039417, 0]
+  "/Users/Laird/Code/Projects/AllergyAlert/Pods/Alamofire/Source/Timeline.swift": [536039417, 0]
+  "/Users/Laird/Code/Projects/AllergyAlert/Pods/Alamofire/Source/Validation.swift": [536039417, 0]

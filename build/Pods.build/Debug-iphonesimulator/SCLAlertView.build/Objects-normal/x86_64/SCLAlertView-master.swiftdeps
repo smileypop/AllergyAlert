@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "7311c84e2679dddfd1b033a4616ed49c"
+build_time: [536403674, 260730000]
+inputs:
+  "/Users/Laird/Code/Projects/AllergyAlert/Pods/SCLAlertView/SCLAlertView/SCLAlertView.swift": [536403219, 0]
+  "/Users/Laird/Code/Projects/AllergyAlert/Pods/SCLAlertView/SCLAlertView/SCLExtensions.swift": [536403220, 0]

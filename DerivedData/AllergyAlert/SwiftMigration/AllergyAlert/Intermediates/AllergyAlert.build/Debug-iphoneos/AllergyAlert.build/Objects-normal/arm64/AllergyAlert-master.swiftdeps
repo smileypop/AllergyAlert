@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "7d82f50c920d34a496883ece694f7719"
+build_time: [536041104, 588068000]
+inputs:
+  "/Users/Laird/Code/Projects/AllergyAlert/AllergyAlert/Network.swift": [536040642, 0]
+  "/Users/Laird/Code/Projects/AllergyAlert/AllergyAlert/ViewController.swift": [536037422, 0]
+  "/Users/Laird/Code/Projects/AllergyAlert/AllergyAlert/AppDelegate.swift": [536037422, 0]
+  "/Users/Laird/Code/Projects/AllergyAlert/AllergyAlert/Constants.swift": [536038103, 0]

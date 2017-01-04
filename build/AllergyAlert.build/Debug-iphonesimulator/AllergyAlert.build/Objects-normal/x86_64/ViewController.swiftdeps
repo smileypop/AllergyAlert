@@ -1,0 +1,238 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "C12AllergyAlert14ViewController"
+provides-member:
+- ["C12AllergyAlert14ViewController", ""]
+provides-dynamic-lookup:
+- "viewDidLoad"
+- "didReceiveMemoryWarning"
+- "prepareForUnwind"
+depends-top-level:
+- "ViewController"
+- !private "DataService"
+- "CastingPrecedence"
+- "UIStoryboardSegue"
+- "UIViewController"
+- !private "BarcodeScannerViewController"
+depends-member:
+- !private ["PSo38AVCaptureMetadataOutputObjectsDelegate", "scannedBarcode"]
+- !private ["Ps9AnyObject", "DataService"]
+- !private ["Ps9AnyObject", "createSession"]
+- ["Ps9AnyObject", "didReceiveMemoryWarning"]
+- !private ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "prepareForUnwind"]
+- !private ["Ps9AnyObject", "scannedBarcode"]
+- !private ["Ps9AnyObject", "searchForProduct"]
+- !private ["Ps9AnyObject", "source"]
+- ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- ["C12AllergyAlert28BarcodeScannerViewController", "deinit"]
+- !private ["C12AllergyAlert28BarcodeScannerViewController", "scannedBarcode"]
+- !private ["Ps7CVarArg", "DataService"]
+- ["Ps7CVarArg", "didReceiveMemoryWarning"]
+- !private ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "prepareForUnwind"]
+- !private ["Ps7CVarArg", "scannedBarcode"]
+- !private ["Ps7CVarArg", "source"]
+- ["Ps7CVarArg", "viewDidLoad"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps28CustomDebugStringConvertible", "DataService"]
+- ["Ps28CustomDebugStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "prepareForUnwind"]
+- !private ["Ps28CustomDebugStringConvertible", "scannedBarcode"]
+- !private ["Ps28CustomDebugStringConvertible", "source"]
+- ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "DataService"]
+- ["Ps23CustomStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "prepareForUnwind"]
+- !private ["Ps23CustomStringConvertible", "scannedBarcode"]
+- !private ["Ps23CustomStringConvertible", "source"]
+- ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["C12AllergyAlert11DataService", "createSession"]
+- !private ["C12AllergyAlert11DataService", "searchForProduct"]
+- !private ["Ps9Equatable", "DataService"]
+- ["Ps9Equatable", "didReceiveMemoryWarning"]
+- !private ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "prepareForUnwind"]
+- !private ["Ps9Equatable", "scannedBarcode"]
+- !private ["Ps9Equatable", "source"]
+- ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", ""]
+- !private ["Ps8Hashable", "DataService"]
+- ["Ps8Hashable", "didReceiveMemoryWarning"]
+- !private ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "prepareForUnwind"]
+- !private ["Ps8Hashable", "scannedBarcode"]
+- !private ["Ps8Hashable", "source"]
+- ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- ["CSo7NSCoder", "deinit"]
+- !private ["PSo8NSCoding", "DataService"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- !private ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "prepareForUnwind"]
+- !private ["PSo8NSCoding", "scannedBarcode"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo26NSExtensionRequestHandling", "DataService"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "prepareForUnwind"]
+- !private ["PSo26NSExtensionRequestHandling", "scannedBarcode"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- !private ["CSo8NSObject", "BarcodeScannerViewController"]
+- !private ["CSo8NSObject", "DataService"]
+- ["CSo8NSObject", "UIStoryboardSegue"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "prepareForUnwind"]
+- !private ["CSo8NSObject", "scannedBarcode"]
+- !private ["CSo8NSObject", "source"]
+- ["CSo8NSObject", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "DataService"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "prepareForUnwind"]
+- !private ["PSo16NSObjectProtocol", "scannedBarcode"]
+- !private ["PSo16NSObjectProtocol", "source"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- ["Sq", "deinit"]
+- ["SS", "deinit"]
+- !private ["PSo21UIAppearanceContainer", "DataService"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "prepareForUnwind"]
+- !private ["PSo21UIAppearanceContainer", "scannedBarcode"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo18UIContentContainer", "DataService"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- !private ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "prepareForUnwind"]
+- !private ["PSo18UIContentContainer", "scannedBarcode"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo18UIFocusEnvironment", "DataService"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "prepareForUnwind"]
+- !private ["PSo18UIFocusEnvironment", "scannedBarcode"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["CSo11UIResponder", "BarcodeScannerViewController"]
+- !private ["CSo11UIResponder", "DataService"]
+- ["CSo11UIResponder", "UIStoryboardSegue"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "prepareForUnwind"]
+- !private ["CSo11UIResponder", "scannedBarcode"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- !private ["PSo30UIResponderStandardEditActions", "DataService"]
+- ["PSo30UIResponderStandardEditActions", "didReceiveMemoryWarning"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- ["PSo30UIResponderStandardEditActions", "prepareForUnwind"]
+- !private ["PSo30UIResponderStandardEditActions", "scannedBarcode"]
+- ["PSo30UIResponderStandardEditActions", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- !private ["PSo16UIStateRestoring", "DataService"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- !private ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "prepareForUnwind"]
+- !private ["PSo16UIStateRestoring", "scannedBarcode"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- ["CSo17UIStoryboardSegue", "deinit"]
+- !private ["CSo17UIStoryboardSegue", "source"]
+- !private ["PSo18UITraitEnvironment", "DataService"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "prepareForUnwind"]
+- !private ["PSo18UITraitEnvironment", "scannedBarcode"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo16UIViewController", "BarcodeScannerViewController"]
+- !private ["CSo16UIViewController", "DataService"]
+- ["CSo16UIViewController", "UIStoryboardSegue"]
+- ["CSo16UIViewController", "deinit"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "prepareForUnwind"]
+- !private ["CSo16UIViewController", "scannedBarcode"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- !private ["C12AllergyAlert14ViewController", "BarcodeScannerViewController"]
+- !private ["C12AllergyAlert14ViewController", "DataService"]
+- ["C12AllergyAlert14ViewController", "UIStoryboardSegue"]
+- ["C12AllergyAlert14ViewController", "deinit"]
+- ["C12AllergyAlert14ViewController", "didReceiveMemoryWarning"]
+- ["C12AllergyAlert14ViewController", "init"]
+- ["C12AllergyAlert14ViewController", "prepareForUnwind"]
+- ["C12AllergyAlert14ViewController", "viewDidLoad"]
+- !private ["Ps9_Hashable", "DataService"]
+- ["Ps9_Hashable", "didReceiveMemoryWarning"]
+- !private ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "prepareForUnwind"]
+- !private ["Ps9_Hashable", "scannedBarcode"]
+- !private ["Ps9_Hashable", "source"]
+- ["Ps9_Hashable", "viewDidLoad"]
+- ["Ps9_Hashable", ""]
+depends-nominal:
+- !private "PSo38AVCaptureMetadataOutputObjectsDelegate"
+- "Ps9AnyObject"
+- "C12AllergyAlert28BarcodeScannerViewController"
+- "Ps7CVarArg"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- !private "C12AllergyAlert11DataService"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "Sq"
+- "SS"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo16UIStateRestoring"
+- "CSo17UIStoryboardSegue"
+- "PSo18UITraitEnvironment"
+- "CSo16UIViewController"
+- "C12AllergyAlert14ViewController"
+- "Ps9_Hashable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+- "/Users/Laird/Code/Projects/AllergyAlert/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/Laird/Code/Projects/AllergyAlert/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/Laird/Code/Projects/AllergyAlert/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/Laird/Code/Projects/AllergyAlert/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/Laird/Code/Projects/AllergyAlert/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/Laird/Code/Projects/AllergyAlert/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/Laird/Code/Projects/AllergyAlert/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/Laird/Code/Projects/AllergyAlert/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+interface-hash: "d2fb583f67aaebc947f897467d659e6f"

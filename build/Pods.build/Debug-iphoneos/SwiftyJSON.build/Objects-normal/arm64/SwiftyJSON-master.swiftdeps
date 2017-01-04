@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "314536a220dd3676ce4757f9ba7bd182"
+build_time: [536814375, 622967000]
+inputs:
+  "/Users/Laird/Code/Projects/AllergyAlert/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [536403673, 0]

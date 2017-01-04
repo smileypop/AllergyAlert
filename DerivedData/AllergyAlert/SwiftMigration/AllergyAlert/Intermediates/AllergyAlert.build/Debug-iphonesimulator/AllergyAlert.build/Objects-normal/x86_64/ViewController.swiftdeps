@@ -1,0 +1,301 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "C12AllergyAlert14ViewController"
+provides-member:
+- ["C12AllergyAlert14ViewController", ""]
+provides-dynamic-lookup:
+- "unwindToHomeScreen"
+- "didReceiveMemoryWarning"
+- "viewDidLoad"
+depends-top-level:
+- "UIViewController"
+- !private "StringLiteralType"
+- !private "DataService"
+- !private "BooleanLiteralType"
+- !private "NotificationCenter"
+- !private "SCLAlertViewResponder"
+- "UIStoryboardSegue"
+- "ViewController"
+depends-member:
+- !private ["Ps9AnyObject", "DataService"]
+- !private ["Ps9AnyObject", "NotificationCenter"]
+- !private ["Ps9AnyObject", "default"]
+- ["Ps9AnyObject", "didReceiveMemoryWarning"]
+- !private ["Ps9AnyObject", "dismiss"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "removeObserver"]
+- !private ["Ps9AnyObject", "searchAPI"]
+- ["Ps9AnyObject", "unwindToHomeScreen"]
+- ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- ["Sb", "deinit"]
+- !private ["Ps7CVarArg", "DataService"]
+- !private ["Ps7CVarArg", "NotificationCenter"]
+- !private ["Ps7CVarArg", "default"]
+- ["Ps7CVarArg", "didReceiveMemoryWarning"]
+- !private ["Ps7CVarArg", "dismiss"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "removeObserver"]
+- ["Ps7CVarArg", "unwindToHomeScreen"]
+- ["Ps7CVarArg", "viewDidLoad"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "DataService"]
+- !private ["Ps28CustomDebugStringConvertible", "NotificationCenter"]
+- !private ["Ps28CustomDebugStringConvertible", "default"]
+- ["Ps28CustomDebugStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps28CustomDebugStringConvertible", "dismiss"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "removeObserver"]
+- ["Ps28CustomDebugStringConvertible", "unwindToHomeScreen"]
+- ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "DataService"]
+- !private ["Ps23CustomStringConvertible", "NotificationCenter"]
+- !private ["Ps23CustomStringConvertible", "default"]
+- ["Ps23CustomStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps23CustomStringConvertible", "dismiss"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "removeObserver"]
+- ["Ps23CustomStringConvertible", "unwindToHomeScreen"]
+- ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["C12AllergyAlert11DataService", "searchAPI"]
+- !private ["Ps9Equatable", "DataService"]
+- !private ["Ps9Equatable", "NotificationCenter"]
+- !private ["Ps9Equatable", "default"]
+- ["Ps9Equatable", "didReceiveMemoryWarning"]
+- !private ["Ps9Equatable", "dismiss"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "removeObserver"]
+- ["Ps9Equatable", "unwindToHomeScreen"]
+- ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", ""]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps32ExpressibleByStringInterpolation", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "DataService"]
+- !private ["Ps8Hashable", "NotificationCenter"]
+- !private ["Ps8Hashable", "default"]
+- ["Ps8Hashable", "didReceiveMemoryWarning"]
+- !private ["Ps8Hashable", "dismiss"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "removeObserver"]
+- ["Ps8Hashable", "unwindToHomeScreen"]
+- ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- ["CSo7NSCoder", "deinit"]
+- !private ["PSo8NSCoding", "DataService"]
+- !private ["PSo8NSCoding", "NotificationCenter"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- !private ["PSo8NSCoding", "dismiss"]
+- !private ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "unwindToHomeScreen"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "DataService"]
+- !private ["PSo26NSExtensionRequestHandling", "NotificationCenter"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- !private ["PSo26NSExtensionRequestHandling", "dismiss"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "unwindToHomeScreen"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- !private ["PSo16NSMutableCopying", "init"]
+- !private ["CSo8NSObject", "DataService"]
+- !private ["CSo8NSObject", "NotificationCenter"]
+- !private ["CSo8NSObject", "SCLAlertViewResponder"]
+- ["CSo8NSObject", "UIStoryboardSegue"]
+- !private ["CSo8NSObject", "default"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- !private ["CSo8NSObject", "dismiss"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "removeObserver"]
+- ["CSo8NSObject", "unwindToHomeScreen"]
+- ["CSo8NSObject", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "DataService"]
+- !private ["PSo16NSObjectProtocol", "NotificationCenter"]
+- !private ["PSo16NSObjectProtocol", "default"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- !private ["PSo16NSObjectProtocol", "dismiss"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "removeObserver"]
+- ["PSo16NSObjectProtocol", "unwindToHomeScreen"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- !private ["CSo18NotificationCenter", "default"]
+- ["CSo18NotificationCenter", "deinit"]
+- !private ["CSo18NotificationCenter", "removeObserver"]
+- ["Sq", "deinit"]
+- ["SS", "deinit"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["PSo21UIAppearanceContainer", "DataService"]
+- !private ["PSo21UIAppearanceContainer", "NotificationCenter"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- !private ["PSo21UIAppearanceContainer", "dismiss"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "unwindToHomeScreen"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo18UIContentContainer", "DataService"]
+- !private ["PSo18UIContentContainer", "NotificationCenter"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- !private ["PSo18UIContentContainer", "dismiss"]
+- !private ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "unwindToHomeScreen"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo18UIFocusEnvironment", "DataService"]
+- !private ["PSo18UIFocusEnvironment", "NotificationCenter"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UIFocusEnvironment", "dismiss"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "unwindToHomeScreen"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["CSo11UIResponder", "DataService"]
+- !private ["CSo11UIResponder", "NotificationCenter"]
+- !private ["CSo11UIResponder", "SCLAlertViewResponder"]
+- ["CSo11UIResponder", "UIStoryboardSegue"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- !private ["CSo11UIResponder", "dismiss"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "unwindToHomeScreen"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- !private ["PSo30UIResponderStandardEditActions", "DataService"]
+- !private ["PSo30UIResponderStandardEditActions", "NotificationCenter"]
+- ["PSo30UIResponderStandardEditActions", "didReceiveMemoryWarning"]
+- !private ["PSo30UIResponderStandardEditActions", "dismiss"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- ["PSo30UIResponderStandardEditActions", "unwindToHomeScreen"]
+- ["PSo30UIResponderStandardEditActions", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- !private ["PSo16UIStateRestoring", "DataService"]
+- !private ["PSo16UIStateRestoring", "NotificationCenter"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- !private ["PSo16UIStateRestoring", "dismiss"]
+- !private ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "unwindToHomeScreen"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["PSo18UITraitEnvironment", "DataService"]
+- !private ["PSo18UITraitEnvironment", "NotificationCenter"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UITraitEnvironment", "dismiss"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "unwindToHomeScreen"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo16UIViewController", "DataService"]
+- !private ["CSo16UIViewController", "NotificationCenter"]
+- !private ["CSo16UIViewController", "SCLAlertViewResponder"]
+- ["CSo16UIViewController", "UIStoryboardSegue"]
+- ["CSo16UIViewController", "deinit"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- !private ["CSo16UIViewController", "dismiss"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "unwindToHomeScreen"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- !private ["C12AllergyAlert14ViewController", "DataService"]
+- !private ["C12AllergyAlert14ViewController", "NotificationCenter"]
+- !private ["C12AllergyAlert14ViewController", "SCLAlertViewResponder"]
+- ["C12AllergyAlert14ViewController", "UIStoryboardSegue"]
+- ["C12AllergyAlert14ViewController", "deinit"]
+- ["C12AllergyAlert14ViewController", "didReceiveMemoryWarning"]
+- !private ["C12AllergyAlert14ViewController", "dismiss"]
+- ["C12AllergyAlert14ViewController", "init"]
+- ["C12AllergyAlert14ViewController", "unwindToHomeScreen"]
+- ["C12AllergyAlert14ViewController", "viewDidLoad"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "DataService"]
+- !private ["Ps9_Hashable", "NotificationCenter"]
+- !private ["Ps9_Hashable", "default"]
+- ["Ps9_Hashable", "didReceiveMemoryWarning"]
+- !private ["Ps9_Hashable", "dismiss"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "removeObserver"]
+- ["Ps9_Hashable", "unwindToHomeScreen"]
+- ["Ps9_Hashable", "viewDidLoad"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sb"
+- "Ps7CVarArg"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- !private "C12AllergyAlert11DataService"
+- "Ps9Equatable"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps32ExpressibleByStringInterpolation"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- "CSo18NotificationCenter"
+- "Sq"
+- "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- "CSo16UIViewController"
+- "C12AllergyAlert14ViewController"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+interface-hash: "430cd108299e225d2fb902fcf276798e"

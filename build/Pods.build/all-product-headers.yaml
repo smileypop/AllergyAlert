@@ -1,0 +1,87 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/Laird/Code/Projects/AllergyAlert/build/Debug-iphoneos/Alamofire/Alamofire.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Alamofire-Swift.h",
+          'external-contents': "/Users/Laird/Code/Projects/AllergyAlert/build/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Alamofire-umbrella.h",
+          'external-contents': "/Users/Laird/Code/Projects/AllergyAlert/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Laird/Code/Projects/AllergyAlert/build/Debug-iphoneos/Alamofire/Alamofire.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Laird/Code/Projects/AllergyAlert/build/Pods.build/Debug-iphoneos/Alamofire.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Laird/Code/Projects/AllergyAlert/build/Debug-iphoneos/Pods_AllergyAlert.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-AllergyAlert-umbrella.h",
+          'external-contents': "/Users/Laird/Code/Projects/AllergyAlert/Pods/Target Support Files/Pods-AllergyAlert/Pods-AllergyAlert-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_AllergyAlert-Swift.h",
+          'external-contents': "/Users/Laird/Code/Projects/AllergyAlert/build/Debug-iphoneos/Pods_AllergyAlert.framework/Headers/Pods_AllergyAlert-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Laird/Code/Projects/AllergyAlert/build/Debug-iphoneos/Pods_AllergyAlert.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Laird/Code/Projects/AllergyAlert/build/Pods.build/Debug-iphoneos/Pods-AllergyAlert.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Laird/Code/Projects/AllergyAlert/build/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-Swift.h",
+          'external-contents': "/Users/Laird/Code/Projects/AllergyAlert/build/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-umbrella.h",
+          'external-contents': "/Users/Laird/Code/Projects/AllergyAlert/Pods/Target Support Files/SwiftyJSON/SwiftyJSON-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Laird/Code/Projects/AllergyAlert/build/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Laird/Code/Projects/AllergyAlert/build/Pods.build/Debug-iphoneos/SwiftyJSON.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
